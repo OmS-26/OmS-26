@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a second-year **Computer Science student** actively applying for **software engineering co-op roles**.
+I'm a second-year **Computer Science student** actively applying for **computer science related co-op roles**.
 
 I enjoy building small, well-structured projects that focus on **core software fundamentals**, clean logic, and practical problem-solving. I'm especially interested in backend development, systems programming, and working in Linux-based environments.
 
