@@ -1,34 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Om! 👋
 
-I'm a second-year **Computer Science student** actively applying for **computer science related co-op roles**.
+I'm a **Second-Year Computer Science student** dedicated to building well-structured software with a focus on **clean logic** and **practical problem-solving**. I am currently seeking **Summer 2026 Co-op roles** where I can contribute to backend systems and desktop application development.
 
-I enjoy building small, well-structured projects that focus on **core software fundamentals**, clean logic, and practical problem-solving. I'm especially interested in backend development, systems programming, and working in Linux-based environments.
+## 🛠 Technical Stack
 
-### 🔧 Technical Skills
-- **Languages:** C, Python, C#, Java
-- **Tools & Technologies:** Git, GitHub, Linux, VS Code
-- **Concepts:** Object-Oriented Programming, Data Structures, Web Development
+| Category | Skills |
+| --- | --- |
+| **Languages** | C#, Java, C, Python |
+| **Tools** | Git, GitHub, VS Code, Visual Studio, Linux |
+| **Concepts** | Object-Oriented Programming (OOP), Data Structures, Game Logic |
 
+## 🎯 Current Focus
+* 🔭 **Applying** for Summer 2026 Co-op positions.
+* 💻 **Optimizing** code quality and implementing OOP design patterns.
+* 📚 **Expanding** knowledge in Systems Programming and Linux environments.
 
-### 🎯 Currently
-- Applying for **2026 Summer co-op positions**
-- Strengthening fundamentals through hands-on projects
-- Improving code quality, documentation, and version control practices
-
-📫 Feel free to explore my repositories or reach out.
-
-
-<!--
-**OmS-26/OmS-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Feel free to explore my repositories or reach out!**
