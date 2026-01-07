@@ -6,7 +6,7 @@ I'm a **Second-Year Computer Science student** dedicated to building well-struct
 
 | Category | Skills |
 | --- | --- |
-| **Languages** | C#, Java, C, Python |
+| **Languages** | C#, Java, C, Python, SQL |
 | **Tools** | Git, GitHub, VS Code, Visual Studio, Linux |
 | **Concepts** | Object-Oriented Programming (OOP), Data Structures, Game Logic |
 
